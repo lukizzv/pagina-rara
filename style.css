@@ -1,0 +1,81 @@
+body{
+text-align:center;
+margin: 0;
+padding-top: 100px;
+}
+.terry{
+    border-radius: 60%;
+}
+#a {
+  background: linear-gradient(rgb(214, 152, 58)0%, rgb(148, 199, 54)100%);
+  position: absolute;
+  bottom: 0;
+  display: table;
+  width: 100%;
+  height: 100%;
+
+}
+h1{
+  font-size: 40PX;  
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 300;
+}
+#espan{
+font-size: 50px;
+font-family: 'Merriweather', serif;
+}
+h2{
+    font-size: 30px;
+    font-weight: 300;
+}
+#xd{
+   
+  padding-top: 900px;
+  width: 100%;
+  position: absolute;
+  font-size: 30;
+}
+
+.linea{
+  height: 5px;
+  background-color: chartreuse;
+  width: 700px;
+  margin: 8px auto;
+
+}
+.kaka{
+  display: table-cell;
+  vertical-align: middle;
+
+}
+.ul{
+  z-index: 10;
+  position: fixed;
+  list-style: none;
+  top: 0px;
+margin-top: 0px;
+
+  cursor: pointer;
+  background: rgb(255, 255, 255);
+  width: 100%;
+  text-align: center;
+}
+.li{
+  display: inline;
+  padding-top: 5px;
+  padding-left: 33px;
+  padding-right: 25px;
+  font-family: fantasy ;
+  font-size: 30px;
+}
+#VIDEOS{
+  padding-top: 1100;
+}
+.li:hover{
+  font-size: 40px
+}
+#TEXTOS{
+  font-size: 50px;
+    text-decoration: underline !important;
+    color: aquamarine;
+}
